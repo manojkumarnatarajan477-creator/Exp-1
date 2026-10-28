@@ -34,7 +34,8 @@ Draw the following UML diagrams using StarUML:
 
 ## CLASS DIAGRAM
 
-<img width="1917" height="1022" alt="CLASS DIAGRAM EX1" src="https://github.com/user-attachments/assets/f9f01c66-6717-4005-b139-ef09d0cc9d9c" />
+<img width="1914" height="1018" alt="CLASS DIAGRAM EX01" src="https://github.com/user-attachments/assets/96a7dcba-3198-4c55-86d0-6f51504ce6d5" />
+
 
 ## ACTIVITY DIAGRAM
 <img width="1917" height="1021" alt="ACTIVITY DIAGRAM EX1" src="https://github.com/user-attachments/assets/202143e1-27ac-446c-96dd-8bf87fcf9770" />
